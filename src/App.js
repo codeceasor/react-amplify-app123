@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          <h2>hello</h2>
+          <h2>hello simran in your first app</h2>
         </p>
         
         <a
